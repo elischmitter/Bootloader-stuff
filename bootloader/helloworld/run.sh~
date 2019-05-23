@@ -1,7 +1,0 @@
-#! /bin/bash
-
-clear
-
-make
-
-qemu-system-x86_64 -fda helloworld.bin
